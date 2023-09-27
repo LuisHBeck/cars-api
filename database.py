@@ -14,7 +14,8 @@ class CarModel(SQLModel, table=True):
 	motorization: float
 	fuel: str
 	avg_consumption: Optional[float] = None
-	plate_number: str
+	# plate_number: str
+	plate_number: str = Field(unique=True)
 
 
 def create_tables():

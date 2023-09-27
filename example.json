@@ -7,3 +7,13 @@
   "avg_consumption": 9.0,
   "plate_number": "EAA-3719"
 }
+
+{
+  "manufacturer": "GM",
+  "model": "Corsa - Classic",
+  "year": 2008,
+  "motorization": 1.0,
+  "fuel": "flex",
+  "avg_consumption": 9.3,
+  "plate_number": "PPP-2593"
+}
